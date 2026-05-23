@@ -63,7 +63,7 @@
 
 ### Installation
 
-**1. Clone or [fork](https://github.com/kimooamigo/GalleryPhoto-Website/fork) the repository:**
+**1. Clone or [fork](https://github.com/kareemxamged/GalleryPhoto-Website/fork) the repository:**
 
 ```bash
 git clone git@github.com:kimooamigo/GalleryPhoto-Website.git
