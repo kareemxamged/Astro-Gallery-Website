@@ -66,4 +66,4 @@
 **1. Clone or [fork](https://github.com/kareemxamged/GalleryPhoto-Website/fork) the repository:**
 
 ```bash
-git clone git@github.com:kimooamigo/GalleryPhoto-Website.git
+git clone git@github.com:kareemxamged/GalleryPhoto-Website.git
